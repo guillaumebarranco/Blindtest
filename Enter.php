@@ -4,7 +4,7 @@
 
 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
 	<div style="position:absolute;top:-276px;left:-5px">
-			<iframe src="https:<?php echo $muzik ?>" style="width: 300px; height: 300px;" autoplay="true"> </iframe> 
+			<iframe src="<?php echo $muzik ?>" style="width: 300px; height: 300px;" autoplay="true"> </iframe> 
 	</div>
 </div>
 
