@@ -1,5 +1,5 @@
-<?php
- 	$muzik = $_GET['muzik'];
+﻿<?php
+ 	$muzik = "//www.youtube.com/embed/".$_GET['muzik'];
 ?>
 
 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
